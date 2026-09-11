@@ -81,3 +81,58 @@ The dashboard includes:
 
 ```DAX
 Gross Profit = [Total Revenue] - [Total Cost]
+
+Key measures used in the dashboard include:
+
+Total Revenue
+Total Cost
+Net Revenue
+Gross Profit
+Gross Margin %
+Return Rate %
+🔄 Analytical Process
+
+The project followed this workflow:
+
+Data → Data Preparation → Data Modeling → DAX → Visualization → Analysis → Business Insights
+
+💡 Potential Business Recommendations
+
+Based on the dashboard analysis, further investigation could focus on:
+
+Understanding the reasons behind high return quantities in specific sub-categories.
+Investigating the high concentration of revenue in Department 1.
+Comparing high-revenue products with their profitability.
+Investigating periods with significant changes in revenue and cost.
+Understanding whether product returns are affecting overall profitability.
+
+These recommendations would require additional operational and customer-level data before making final business decisions.
+
+🛠️ Tools & Skills
+Power BI
+DAX
+Data Analysis
+Data Visualization
+Business Intelligence
+KPI Analysis
+Interactive Dashboard Design
+📷 Dashboard Preview
+
+🎓 Learning Outcomes
+
+Through this project, I strengthened my ability to:
+
+Translate business questions into analytical requirements.
+Build interactive Power BI dashboards.
+Create DAX measures.
+Analyze revenue and profitability.
+Identify business trends and performance drivers.
+Communicate analytical findings using data visualization.
+Present business insights in a structured manner.
+
+👤 Author
+Ketan Jagat
+
+Data Analyst | Business Analyst
+
+Skills: Power BI | DAX | Data Analysis | Business Intelligence
